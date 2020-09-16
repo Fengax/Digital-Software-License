@@ -1,0 +1,10 @@
+C:\Users\85751\source\repos\software_licensing\software_licensing\bin\Debug\software_licensing.exe.config
+C:\Users\85751\source\repos\software_licensing\software_licensing\bin\Debug\software_licensing.exe
+C:\Users\85751\source\repos\software_licensing\software_licensing\bin\Debug\software_licensing.pdb
+C:\Users\85751\source\repos\software_licensing\software_licensing\bin\Debug\FluentFTP.dll
+C:\Users\85751\source\repos\software_licensing\software_licensing\bin\Debug\FluentFTP.xml
+C:\Users\85751\source\repos\software_licensing\software_licensing\obj\Debug\software_licensing.csprojAssemblyReference.cache
+C:\Users\85751\source\repos\software_licensing\software_licensing\obj\Debug\software_licensing.csproj.CoreCompileInputs.cache
+C:\Users\85751\source\repos\software_licensing\software_licensing\obj\Debug\software_licensing.csproj.CopyComplete
+C:\Users\85751\source\repos\software_licensing\software_licensing\obj\Debug\software_licensing.exe
+C:\Users\85751\source\repos\software_licensing\software_licensing\obj\Debug\software_licensing.pdb
